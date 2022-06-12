@@ -7,8 +7,8 @@
 
 This repository is to share codes used in our paper titled “An Overview
 of Heavy-Tail Extensions of Multivariate Gaussian Distribution and Their
-Relations”, [available in Journal of Applied Statistics](url) (currently
-under revision).
+Relations”, [published in Journal of Applied
+Statistics](https://doi.org/10.1080/02664763.2022.2044018).
 
 Two R scripts (with “.R” extension) are given here, each of which is to
 reproduce each subsection in Section 4. First, in `code_sec_4.1.R`, we
@@ -22,7 +22,7 @@ found in our manuscript.
 <!-- Mimitou, E. P. et al. (2019) Multiplexed detection of proteins, transcriptomes, clonotypes and CRISPR perturbations in single cells. Nat. Methods 16, 409–412. -->
 <!-- ## Notes -->
 <!-- ## Citation -->
-<!-- To cite this package, please use this bibtex format: -->
+<!-- To cite this paper, please use this bibtex format: -->
 <!-- ```{latex} -->
 <!-- @article{Lu:2021, -->
 <!--    title = "Overcoming Expressional Drop-outs in Lineage Reconstruction from Single-Cell RNA-Sequencing Data", -->
